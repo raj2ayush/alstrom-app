@@ -11,6 +11,7 @@ public class AlstromAppApplication {
 		System.out.println("Alstrom App Started !");
 		
 		System.out.println("Hello is is Ayush Raj I am the Editor");
+		System.out.println("Hello world Its Ayush");
 	}
 
 }
